@@ -1,4 +1,4 @@
-### <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47vl7vxm4zssis32bmludo1n1usuqrfe1gbwy6cfk5&rid=giphy.gif&ct=g" width="30px" height="30px">  Hi, I'm Rafhanah 👋🏄‍♀️
+### <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47vl7vxm4zssis32bmludo1n1usuqrfe1gbwy6cfk5&rid=giphy.gif&ct=g" width="50px" height="50px">  Hi, I'm Rafhanah 👋🏄‍♀️
 
 <!--
 **rafhh/rafhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
