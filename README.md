@@ -9,5 +9,5 @@
 <br />
 
 ### 🔭 You can find me on
-👩‍💻 [LinkedIn](https://www.linkedin.com/in/rafhanah-razali-857857153/) <br>
-📫  You can reach me by mail at [razalirafhanah@gmail.com](mailto:razalirafhanah@gmail.com)
+👩‍💻&nbsp; [LinkedIn](https://www.linkedin.com/in/rafhanah-razali-857857153/) <br>
+📫&nbsp; You can reach me by mail at [razalirafhanah@gmail.com](mailto:razalirafhanah@gmail.com)
