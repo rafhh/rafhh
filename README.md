@@ -7,6 +7,6 @@
 🙆‍♀️ &nbsp; My pronouns are She/Her <br>
 <br />
 
-# 🔭 You can find me on
+## 🔭 You can find me on
 👩‍💻&nbsp; [LinkedIn](https://www.linkedin.com/in/rafhanah-razali-857857153/) <br>
 📫&nbsp; You can reach me by mail at [razalirafhanah@gmail.com](mailto:razalirafhanah@gmail.com)
