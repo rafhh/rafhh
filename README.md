@@ -7,6 +7,7 @@
 🙆‍♀️ &nbsp; My pronouns are She/Her <br>
 <br />
 
-## 🔭 You can find me on
+## 🔭 You can find me on  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://media2.giphy.com/media/EKbqHBAYqt4M5fXrCD/giphy.gif?cid=790b761170fdbc2dc175dcaa546c0edc4a2fbe8b6d217a2b&rid=giphy.gif&ct=s"></a>
+
 👩‍💻&nbsp; [LinkedIn](https://www.linkedin.com/in/rafhanah-razali-857857153/) <br>
 📫&nbsp; You can reach me by mail at [razalirafhanah@gmail.com](mailto:razalirafhanah@gmail.com)
